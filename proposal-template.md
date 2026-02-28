@@ -35,7 +35,7 @@
 - *Workshops and tutorials*
 - *Oral paper presentations*
 - *Poster and demo sessions*
-- *Concerts and performances*
+- *Concerts and installations*
 - *Keynote talks*
 - *Social events*
 
