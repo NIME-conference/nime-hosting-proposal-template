@@ -49,7 +49,28 @@
 
 ### 6. Other Chairs
 
-*Specify the additional chairing roles being considered (e.g., Programme Chairs, Workshop Chairs, Concert Chairs, Proceedings Chairs, Diversity & Inclusion Chairs). Note any intended deviations from the chairing structure of previous NIME conferences and provide justification.*
+*Specify the chairing roles for your conference. Use the structure below as a guide, based on [NIME 2025](https://nime2025.org/committee/). Note any intended deviations and provide justification.*
+
+**Core chairs** (responsible for acceptance decisions across the community):
+
+- *Paper Chairs (2–3 people)*
+- *Music Chairs (2–3 people)*
+- *Poster Chair*
+
+*Paper and Music Chairs should hold a doctoral qualification (or equivalent professional experience) and be established members of the NIME or a closely related research community. They should have a track record as authors at NIME or related conferences, and prior experience as reviewers and/or meta-reviewers. These roles carry authority to make acceptance decisions on behalf of the community.*
+
+**Supporting chairs** (may include academics, research students, or community members):
+
+- *Workshop Chairs*
+- *Proceedings Chair*
+- *Accessibility Chair*
+- *Hybrid Chair*
+- *Social Chair*
+- *Student Volunteer Chair*
+
+*Supporting chairs do not make acceptance decisions. These roles are well suited to early-career researchers, doctoral students, or practitioners with relevant expertise.*
+
+*For each person listed, include their name, affiliation, and a brief note on their relevant experience.*
 
 ### 7. Organising Team
 
