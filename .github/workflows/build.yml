@@ -10,24 +10,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    container: pandoc/core:3.8
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install pandoc and LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-fonts-extra
-
       - name: Build documents
-        run: make all
+        run: |
+          mkdir -p build
+          pandoc proposal-template.md -o build/proposal-template.html --standalone
+          pandoc proposal-template.md -o build/proposal-template.docx
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: proposal-documents
           path: |
-            build/proposal-template.pdf
+            build/proposal-template.html
             build/proposal-template.docx
 
       - name: Attach to release
@@ -35,5 +34,5 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            build/proposal-template.pdf
+            build/proposal-template.html
             build/proposal-template.docx

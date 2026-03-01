@@ -1,21 +1,21 @@
 TEMPLATE  = proposal-template
 BUILD_DIR = build
-PDF       = $(BUILD_DIR)/$(TEMPLATE).pdf
+HTML      = $(BUILD_DIR)/$(TEMPLATE).html
 DOCX      = $(BUILD_DIR)/$(TEMPLATE).docx
 
-.PHONY: all pdf docx clean
+.PHONY: all html docx clean
 
-all: pdf docx
+all: html docx
 
-pdf: $(PDF)
+html: $(HTML)
 
 docx: $(DOCX)
 
 $(BUILD_DIR):
 	mkdir -p $(BUILD_DIR)
 
-$(PDF): $(TEMPLATE).md | $(BUILD_DIR)
-	pandoc $< -o $@ --pdf-engine=xelatex
+$(HTML): $(TEMPLATE).md | $(BUILD_DIR)
+	pandoc $< -o $@ --standalone
 
 $(DOCX): $(TEMPLATE).md | $(BUILD_DIR)
 	pandoc $< -o $@
