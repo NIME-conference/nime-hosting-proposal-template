@@ -1,8 +1,20 @@
-# nime-hosting-proposal-template
+# A template for a NIME Hosting Proposal
 
-A template for a NIME Hosting Proposal
+This repo contains a template for proposing NIME conferences. A markdown version of the template is in the file `proposal-template.md` and a `.docx` version is available attached to each release of the repo.
+
+The template is divided into two sections: part 1 covers basic details for what a NIME could look like and part 2 includes more details about the organising committee and budget.
+
+Part 1 is designed to take only a short amount of time to fill in and can be used as a basis for early feedback with the NIME board. Part 2 would take some more serious thinking, quotes for different aspects of production.
+
+## How to use the template
+
+Open the markdown or docx file and start filling in details.
+
+Instructions and template text are provided in _italics_.
 
 ## Proposal Components
+
+(taken from <https://nime.org> in Feb 2026)
 
 Proposals should include the following elements:
 
@@ -22,11 +34,11 @@ Proposals should include the following elements:
 
 Proposals will be evaluated on the following criteria:
 
-* Reputation, prestige, and suitability of the venue.  
-* Experience and capability of the organising team.  
-* Relevance and quality of the proposed theme.  
-* Efforts to encourage diverse participation and minimise environmental impact.  
+* Reputation, prestige, and suitability of the venue.
+* Experience and capability of the organising team.
+* Relevance and quality of the proposed theme.
+* Efforts to encourage diverse participation and minimise environmental impact.
 * Financial feasibility and sponsorship opportunities.
 
 ## Conference Cookbook
-For more details on how NIME conferences are generally hosted and run, refer to the [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/).
+For more details on how NIME conferences are generally hosted and run, refer to the [NIME Cookbook](https://github.com/nime-conference/nime-cookbook).
