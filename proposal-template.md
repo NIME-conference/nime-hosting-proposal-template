@@ -1,14 +1,18 @@
 # NIME [YEAR] Hosting Proposal
 
-*Replace `[YEAR]` with the year of the conference you are proposing to host. Complete all sections below. Delete instructional text before submitting.*
+*Replace `[YEAR]` with the year of the conference you are proposing to host. Delete instructional text before submitting.*
 
 ---
 
-## 1. Host Institution
+## Part 1: Pre-Proposal
+
+*Complete this section first to receive early feedback before all details are finalised.*
+
+### 1. Host Institution
 
 *Provide a brief introduction to the hosting institution(s) and any relevant affiliations. Mention the institution's research profile, facilities, and its connection to the NIME community.*
 
-## 2. General Chairs
+### 2. General Chairs
 
 *Indicate who the General Chairs will be. For each person include:*
 
@@ -16,19 +20,11 @@
 - *Connection to the NIME community (e.g., previous submissions, steering committee membership, attendance)*
 - *Relevant experience hosting academic conferences or large events*
 
-## 3. Other Chairs
-
-*Specify the additional chairing roles being considered (e.g., Programme Chairs, Workshop Chairs, Concert Chairs, Proceedings Chairs, Diversity & Inclusion Chairs). Note any intended deviations from the chairing structure of previous NIME conferences and provide justification.*
-
-## 4. Organising Team
-
-*Provide details of the organising team, including key chairs and supporting members. This can be a tentative list. For each person include their name, role, and affiliation.*
-
-## 5. Proposed Theme
+### 3. Proposed Theme
 
 *Describe the conference theme. Explain its relevance to current NIME research and practice, and how it will shape the call for papers, performances, and workshops.*
 
-## 6. Venue
+### 4. Venue
 
 *Provide details about the proposed venue(s). Address the availability of spaces for:*
 
@@ -41,11 +37,25 @@
 
 *Include approximate capacity for each space and comment on accessibility.*
 
-## 7. Dates
+### 5. Dates
 
 *Propose specific dates for the conference. NIME generally takes place between May and July. Note any conflicts with other major conferences or local events.*
 
-## 8. Sustainability
+---
+
+## Part 2: Full Proposal
+
+*Complete this section once the pre-proposal has received feedback and the team and logistics are taking shape.*
+
+### 6. Other Chairs
+
+*Specify the additional chairing roles being considered (e.g., Programme Chairs, Workshop Chairs, Concert Chairs, Proceedings Chairs, Diversity & Inclusion Chairs). Note any intended deviations from the chairing structure of previous NIME conferences and provide justification.*
+
+### 7. Organising Team
+
+*Provide details of the organising team, including key chairs and supporting members. This can be a tentative list. For each person include their name, role, and affiliation.*
+
+### 8. Sustainability
 
 *Outline plans for making the event eco-friendly. Consider:*
 
@@ -55,7 +65,7 @@
 - *Use of reusable or recycled materials*
 - *Any sustainability certifications or institutional commitments*
 
-## 9. Diversity and Accessibility
+### 9. Diversity and Accessibility
 
 *Describe measures to encourage broad and equitable participation. Consider:*
 
@@ -65,7 +75,7 @@
 - *Geographic and economic accessibility (e.g., fee waivers, travel grants)*
 - *Physical accessibility of the venue*
 
-## 10. Budget
+### 10. Budget
 
 *Provide a preliminary budget outline. Include expected:*
 
@@ -87,7 +97,7 @@
 
 *Note any significant financial risks or contingencies.*
 
-## 11. Local Support
+### 11. Local Support
 
 *Describe potential funding sources, partnerships, and sponsors. Consider:*
 
