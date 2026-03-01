@@ -41,4 +41,5 @@ Proposals will be evaluated on the following criteria:
 * Financial feasibility and sponsorship opportunities.
 
 ## Conference Cookbook
+
 For more details on how NIME conferences are generally hosted and run, refer to the [NIME Cookbook](https://github.com/nime-conference/nime-cookbook).
