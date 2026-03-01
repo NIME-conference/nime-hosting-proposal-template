@@ -49,24 +49,27 @@
 
 ### 6. Other Chairs
 
-*Specify the chairing roles for your conference. Use the structure below as a guide, based on [NIME 2025](https://nime2025.org/committee/). Note any intended deviations and provide justification.*
+*Specify the chairing roles for your conference. Use the structure below as a guide, based on [NIME 2026](https://nime2026.org/committee/). Note any intended deviations and provide justification.*
 
 **Core chairs** (responsible for acceptance decisions across the community):
 
 - *Paper Chairs (2–3 people)*
 - *Music Chairs (2–3 people)*
-- *Poster Chair*
 
-*Paper and Music Chairs should hold a doctoral qualification (or equivalent professional experience) and be established members of the NIME or a closely related research community. They should have a track record as authors at NIME or related conferences, and prior experience as reviewers and/or meta-reviewers. These roles carry authority to make acceptance decisions on behalf of the community.*
+*Core chairs should hold a doctoral qualification (or equivalent professional experience) and be established members of the NIME or a closely related research community. They should have a track record as authors at NIME or related conferences, and prior experience as reviewers and/or meta-reviewers. These roles carry authority to make acceptance decisions on behalf of the community.*
 
 **Supporting chairs** (may include academics, research students, or community members):
 
-- *Workshop Chairs*
-- *Proceedings Chair*
-- *Accessibility Chair*
-- *Hybrid Chair*
-- *Social Chair*
-- *Student Volunteer Chair*
+- *Installation Chairs (2 people)*
+- *Demo & Poster Chairs (2 people)*
+- *alt.nime Chairs (2–3 people)*
+- *Workshop Chairs (2 people)*
+- *Proceedings Chairs (2 people)*
+- *Accessibility Chairs (2 people)*
+- *Hybrid Chairs (2 people)*
+- *Web Chairs (2 people)*
+- *Student Consortium Chairs (2 people)*
+- *Local Chairs (2 people)*
 
 *Supporting chairs do not make acceptance decisions. These roles are well suited to early-career researchers, doctoral students, or practitioners with relevant expertise.*
 
